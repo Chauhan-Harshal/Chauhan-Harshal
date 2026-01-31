@@ -1,16 +1,36 @@
 ## Hi there 👋
 
-<!--
-**Chauhan-Harshal/Chauhan-Harshal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Harshal
 
-Here are some ideas to get you started:
+### Future Full-Stack Developer from India 🇮🇳
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Building with HTML, CSS, JavaScript  
+- 🌱 Frontend + Backend (learning)  
+- 🚀 Improving every day with practice
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend:**  
+HTML, CSS, JavaScript, Bootstrap, React
+
+**Backend:**  
+Node.js, Express.js (basic)
+
+**Database:**  
+MySQL, MS SQL, SQLite
+
+**Tools:**  
+Git, GitHub, Postman, Linux
+
+---
+
+## 📫 Connect with me
+- GitHub: Chauhan-Harshal
+
+
+---
+
+⭐ Full-Stack in progress • Learning every day
+
