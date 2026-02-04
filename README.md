@@ -1,6 +1,4 @@
-## Hi there 👋
 
-# Hi 👋, I'm Harshal
 
 ### Future Full-Stack Developer from India 🇮🇳
 
